@@ -1,0 +1,1 @@
+A collection of generative art generators made using processing. In this project, I explored a different way of using creative thiking to create algoritmic designs. These pieces also incorporate various fractals, mathematical details paird up with a decent color scheme generator
